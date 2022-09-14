@@ -1,0 +1,3 @@
+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
+
+git remote set-url origin https://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@github.com/CKB-UC/cit142fs.git
