@@ -1,3 +1,12 @@
 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
 
-git remote set-url origin https://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@github.com/CKB-UC/cit142fs.git
+git remote set-url origin https://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@github.com/CKB-UC/cit142fs.git
+
+@echo off
+
+git remote set-url origin https://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@github.com/CKB-UC/cit142fs.git
+pause
+git add .
+git commit -m -"Pussh"
+git push
+pause
